@@ -43,8 +43,8 @@ This project simulates a spreadsheet created by a woman who has tracked her weig
 - **exercise_cals:** estimated calories burned by the particular exercise performed.
 - **cals_out:** estimated total number of calories burned based on the sum of tdee and exercise_cals. 
 - **cal_dif:** the difference between cals_in and cals_out.
-- **gain_or_loss:** the weight loss or gain for the day based on the sum of cals_dif and a random positive of negative value. 
+- **gain_or_loss:** the weight loss or gain for the day based on the sum of cals_dif and a random positive or negative value. 
 - **weight:** the weight recorded when stepping on the scale.
 - **bmi:** body mass index.
 
-Research was conducted on each variable to make them as closely representative of reality as possible. To avoid making the weight-loss results too predictive, values were randomly manipulated to account for realistic fluctuations. The dataset is built upon throughout the jupyter notebook and available in its entirety towards the end of the project. Some distribution plots and basic descriptive statistics are used to demonstrate the patterns created.
+Research was conducted on each variable to make them as closely representative of reality as possible. To avoid making the weight-loss results too predictable, values were randomly manipulated to account for realistic fluctuations. The dataset is built piece by piece throughout and available in its entirety towards the end of the project. Some distribution plots and basic descriptive statistics are used to demonstrate the patterns I attempted to create.
